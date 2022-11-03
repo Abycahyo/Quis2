@@ -1,6 +1,7 @@
 #using namespace std;
 
 int main()
+
 {
 	
 	cout<<"NAMA :WINDHA ABY CAHYO"<<endl;
