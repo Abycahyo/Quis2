@@ -1,17 +1,18 @@
-#using namespace std;
+#include <iostream>
+using namespace std;
 
 int main()
 
 {
-	
-	cout<<"NAMA :WINDHA ABY CAHYO"<<endl;
-	
-	cout<<"NIM :5520122010"<<endl;
-	
-	cout<<"JENIS KELAMIN : L"<<endl;
-	
-	return 0;
+
+cout<<"NAMA :WINDHA ABY CAHYO"<<endl;
+
+cout<<"NO HP :081317379493"<<endl;
+
+cout<<"JENIS KELAMIN : L"<<endl;
+
+return 0;
 }
 
 
-![Bukti jadi Quis2](https://user-images.githubusercontent.com/117300665/199547409-7e41297f-8260-4760-ac3e-53870ff8735d.PNG)
+![Bukti jadi Quis2]![Capture](https://user-images.githubusercontent.com/117300665/199975674-559d0de7-4aa5-47d8-830f-91cb59eb549d.PNG)
